@@ -2,15 +2,15 @@
 
 ## Project Description
 
-This mini project simulates a simple data labeling task using a small set of Turkish customer reviews.
-My goal is to manually annotate text data with sentiment labels (positive, negative, neutral) and understand the core logic behind labeling workflows in real machine learning projects.
+I worked on this mini project, it simulates a simple data labeling task using a dataset of Turkish customer reviews.
+My goal is to manually annotate text data with sentiment labels like "positive" , "negative" and "neutral". 
 
 ## Dataset
 
-The dataset consists of 15 Turkish customer reviews, manually labeled by me as:
+This dataset consists of 15 Turkish customer reviews. I manually labeled as:
 
-positive: clearly satisfied feedback
-negative: complaints, dissatisfaction
+positive: clearly satisfied
+negative: complaints or dissatisfaction
 neutral: mixed or unclear tone
 
 | review                              | label    |
@@ -19,7 +19,7 @@ neutral: mixed or unclear tone
 | Package came so late, I dislike     | negative |
 | Not bad...                          | neutral  |
 
-## Tools Used
+## Tools I Used
 
 Google Colab
 Python (pandas)
