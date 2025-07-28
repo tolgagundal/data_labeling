@@ -3,7 +3,7 @@
 ## Project Description
 
 I worked on this mini project, it simulates a simple data labeling task using a dataset of Turkish customer reviews.
-My goal is to manually annotate text data with sentiment labels like "positive" , "negative" and "neutral". 
+My goal is to manually annotate text data with sentiment labels like "positive", "negative" and "neutral". 
 
 ## Dataset
 
