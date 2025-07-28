@@ -11,7 +11,7 @@ This dataset consists of 15 Turkish customer reviews. I manually labeled as:
 
 positive: clearly satisfied \
 negative: complaints or dissatisfaction \
-neutral: mixed or unclear tone \
+neutral: mixed or unclear tone
 
 | review                              | label    |
 | ----------------------------------- | -------- |
