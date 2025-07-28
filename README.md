@@ -25,9 +25,11 @@ Google Colab
 Python (pandas)
 Manual labeling (no automation)
 
-## Outcomes
+## Outcomes with Sentimet Score
 
 <img width="393" height="404" alt="image" src="https://github.com/user-attachments/assets/7f9d2d0c-6fe2-40a1-8022-fb6627e12cc1" />
+
+## Bar chart graph
 
 <img width="537" height="435" alt="image" src="https://github.com/user-attachments/assets/93e0ceba-888d-49fc-a916-008cce41f1ba" />
 
