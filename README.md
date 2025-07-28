@@ -21,9 +21,8 @@ neutral: mixed or unclear tone
 
 ## Tools I Used
 
-Google Colab
+Google Colab \
 Python (pandas)
-Manual labeling (no automation)
 
 ## Outcomes with Sentimet Score
 
