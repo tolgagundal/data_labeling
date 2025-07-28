@@ -1,4 +1,4 @@
-# Manual Sentiment Labeling of Turkish Customer Reviews (Beginner Practice)
+# Manual Sentiment Labeling of Turkish Customer Reviews
 
 ## Project Description
 
