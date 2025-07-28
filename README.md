@@ -24,3 +24,6 @@ Tools Used
 Google Colab
 Python (pandas)
 Manual labeling (no automation)
+
+<img width="419" height="608" alt="image" src="https://github.com/user-attachments/assets/dd6d7847-39bf-40b8-89a7-7768fce16e16" />
+
