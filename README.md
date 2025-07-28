@@ -9,9 +9,9 @@ My goal is to manually annotate text data with sentiment labels like "positive",
 
 This dataset consists of 15 Turkish customer reviews. I manually labeled as:
 
-<ins>positive</ins>: clearly satisfied \
-<ins>negative<ins> : complaints or dissatisfaction \
-<ins>neutral<ins> : mixed or unclear tone
+**positive**: clearly satisfied \
+**negative**: complaints or dissatisfaction \
+**neutral**: mixed or unclear tone
 
 | review                              | label    |
 | ----------------------------------- | -------- |
